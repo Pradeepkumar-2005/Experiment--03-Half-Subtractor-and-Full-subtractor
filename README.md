@@ -33,22 +33,60 @@ Write the detailed procedure here
 
 
 ## Program:
+
+## HALF Subtractor
+
+![Screenshot 2023-11-26 143921](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/2db9866a-b48c-4b36-8b9c-de8d80889674)
+
+
+## Full Subtractor
+
+![Screenshot 2023-11-26 144911](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/eb2ba6f2-0ac3-4ef2-b463-e6e9f9822641)
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Pradeep kumar R
+RegisterNumber:  23006358
 */
 
 ## Output:
 
 ## Truthtable
 
+## HALF Subtractor
+
+![WhatsApp Image 2023-11-30 at 10 47 29 PM](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/5ca1e424-5428-4b6c-9a8a-27dc80b5791b)
+
+## Full Subtractor
+
+![Exp4 truthtable fs](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/2218e123-9b96-442c-8572-67c90bc8f589)
+
 
 
 ##  RTL realization
 
+## HALF Subtractor
+
+![Screenshot 2023-11-26 143850](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/0d4410c8-d45e-4ae2-9c8c-f455a1a8bc69)
+
+
+## Full Subtractor
+
+![Screenshot 2023-11-26 151305](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/0c2af869-f498-4cbf-a0b8-482d3c942120)
+
+
+
 
 ## Timing diagram 
+
+## HALF Subtractor
+
+![Screenshot 2023-11-26 150729](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/71701176-8190-478a-8764-23fa2f0df2b7)
+
+## Full Subtractor
+
+![Screenshot 2023-11-26 151237](https://github.com/Pradeepkumar-2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474038/0e141dcb-3be5-4e11-8353-f5434f586aaa)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
